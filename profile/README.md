@@ -1,7 +1,4 @@
-# ToMaTech ☣️
-
-We are an organization building bitcoin infrastructure by toxic maximalist principles.
-
+# ToMaTech☣️
 
 ### Contribution
 
