@@ -3,13 +3,15 @@
 ### Contribution
 
 - <b>Always push to main branch.</b>
-Trunk based development requires maturity from the development team. It allows us to always stay upto date with each others work and avoids us working in isolation for long periods on separate branches. Move fast. Break fast. Fix Fast.
+Trunk based development requires maturity from the development team. A few pointers:
 
-- <b>Keep development local until your push represents a complete update.</b>
-Avoid pushing incomplete work. 
+- Focus on a single update at a time.
+- Commit locally.
+- Rebase after your work is complete.
+- Keep pulling to stay updated.
+- Test before pushing.
+- Push with care.
 
-- <b>Rebase where possible.</b>
-Keep your commit history clean by rebasing where possible. 
 
 - <b>Clear and consise commit names.</b>
 Keep your commit names consise and understandable.
