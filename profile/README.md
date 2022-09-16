@@ -6,8 +6,8 @@
 Trunk based development requires maturity from the development team. A few pointers:
 
 - Focus on a single update at a time.
-- Commit locally.
-- Rebase after your work is complete.
+- Commit locally for every critical change.
+- Rebase when commits are redundant and not critical.
 - Keep pulling to stay updated.
 - Test before pushing.
 - Push with care.
