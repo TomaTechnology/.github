@@ -3,7 +3,7 @@
 ### Contribution
 
 - <b>Always push to main branch.</b>
-Trunk based development requires maturity from the development team. A few pointers:
+Yes! We follow Trunk Based Development which requires care and maturity from the team. A few pointers:
 
 - Focus on a single update at a time.
 - Commit locally for every critical change.
@@ -11,7 +11,6 @@ Trunk based development requires maturity from the development team. A few point
 - Keep pulling to stay updated.
 - Test before pushing.
 - Push with care.
-
 
 - <b>Clear and consise commit names.</b>
 Keep your commit names consise and understandable.
