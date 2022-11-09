@@ -2,7 +2,7 @@
 
 ### Contribution
 
-<b>Always push to main branch.</b>
+<b>Always push to trunk branch.</b>
 Yes! We follow Trunk Based Development which requires care and maturity from the team. A few pointers:
 
 - Focus on a single update at a time. Let the team know what you are working on.
