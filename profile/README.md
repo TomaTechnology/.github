@@ -2,29 +2,32 @@
 
 ### Contribution
 
-<b>Always push to trunk branch.</b>
-Yes! We follow Trunk Based Development which requires care and maturity from the team. A few pointers:
+This applies to contributers with write access to a repository.
+
+<b>Trunk based</b>
 
 - Focus on a single update at a time. Let the team know what you are working on.
 - Commit locally for every critical change.
 - Keep pulling to stay updated.
 - Test before pushing.
 - All repos have CI Test runner - check results after you push.
+- All updates pushed to trunk - no branching and PR for daily work
+- We call our 'master' or 'main' branch - 'trunk' to avoid confusion.
 
-<b>Clear and consise commit names.</b>
+<b>Name descriptively</b>
 
-- Keep your commit names consise and understandable.
+- Make many small commits rather than one big one
+- Keep your commit names understandable and as detailed as required
 - Rebase when commits are redundant and not critical.
 
 <b>Branch out only for releases & experimental features.</b>
 
-- Release branches will be very short lived. 
-- Experimental feature branches may be long lived however do not let these go stale. Where possible, delete branches that are not being used. 
+- Release branches will persist as a point of reference.
+- Experimental feature branches may be long lived however do not let them go stale. Where possible, delete branches that are not being used. 
 
-<b>Always Test Driven.</b>
+<b>Test Driven.</b>
 
-- Any new code additions must begin with a test spec to ensure maximum coverage. 
-- Exceptions are only made in case of UI code.
+- Exceptions are primarily only made in case of UI code.
 
 <b>Ask for help.</b>
 - When in doubt ask for help. There are no stupid questions except - "Is ETH/XMR a shitcoin?"
