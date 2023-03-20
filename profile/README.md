@@ -2,8 +2,6 @@
 
 ### Contribution
 
-This applies to contributers with write access to a repository.
-
 <b>Trunk based</b>
 
 - Focus on a single update at a time. Let the team know what you are working on.
